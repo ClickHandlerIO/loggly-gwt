@@ -58,7 +58,7 @@
         <build-helper-maven-plugin.version>1.10</build-helper-maven-plugin.version>
         <maven-resources-plugin.version>2.5</maven-resources-plugin.version>
         <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
-        <nexus-staging-maven-plugin.version>1.6.6</nexus-staging-maven-plugin.version>
+        <nexus-staging-maven-plugin.version>1.6.8</nexus-staging-maven-plugin.version>
     </properties>
 
     <distributionManagement>
